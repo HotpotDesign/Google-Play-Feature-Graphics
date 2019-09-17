@@ -3,13 +3,20 @@ This guide is written by https://myhotpot.io. We make it easy to create attracti
 
 This is a companion article to the one on [Google Play Screenshots](https://github.com/HotpotDesign/Google-Play-Screenshots).
 
-The goal with these posts is to help developers understand the requirements and best practices for marketing their apps on the App Store and Google Play.
+The goal with these posts is to help developers understand the requirements and best practices for marketing apps on the App Store and Google Play.
 
 ## Overview
-Feature graphics are required to publish an app and be featured on Google Play. The feature graphic is an opportunity to highlight compelling benefits of your app and pique interest in prospective users.
+Feature graphics are not required for publishing apps on Google Play. However, they are highly recommended because feature graphics are required for featured placement. Moreover, the feature graphic is an opportunity to attract new users and entice them to download your app by highlighting key benefits and pain points. From the Android Google Play guide:
 
-## Feature Graphic Size
-the dimensions for feature graphics are fixed at 1024 x 500.
+>>> The feature graphic is the first thing your potential users see when they open your app’s store listing. On the majority of Android smartphones and tablets, it occupies a third of the screen. As a result, it can have a significant impact on a store visitor’s decision to download your app and is an important part of your app marketing. When you include a video in your store listing, the feature graphic provides a link — indicated by an overlaid play icon — so the user can start watching it straight away.
+
+## Size
+Google Play mandataes that feature graphics be 1024px x 500px.
 
 ## File Format
 The Google Play Store accepts either JPEG or 24-bit PNG (no alpha) images.
+
+## Placement
+Feature graphics appear before the screenshots in an app listing on Google Play.
+
+
