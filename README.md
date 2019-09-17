@@ -8,7 +8,7 @@ The goal with these posts is to help developers understand the requirements and 
 ## Overview
 Feature graphics are not required for publishing apps on Google Play. However, they are highly recommended because feature graphics are required for featured placement. Moreover, the feature graphic is an opportunity to attract new users and entice them to download your app by highlighting key benefits and pain points. From the Android Google Play guide:
 
->>> The feature graphic is the first thing your potential users see when they open your app’s store listing. On the majority of Android smartphones and tablets, it occupies a third of the screen. As a result, it can have a significant impact on a store visitor’s decision to download your app and is an important part of your app marketing. When you include a video in your store listing, the feature graphic provides a link — indicated by an overlaid play icon — so the user can start watching it straight away.
+> The feature graphic is the first thing your potential users see when they open your app’s store listing. On the majority of Android smartphones and tablets, it occupies a third of the screen. As a result, it can have a significant impact on a store visitor’s decision to download your app and is an important part of your app marketing. When you include a video in your store listing, the feature graphic provides a link — indicated by an overlaid play icon — so the user can start watching it straight away.
 
 ## Size
 Google Play mandataes that feature graphics be 1024px x 500px.
