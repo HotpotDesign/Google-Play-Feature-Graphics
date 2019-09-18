@@ -17,7 +17,7 @@ Feature graphics are not required for publishing apps on Google Play. However, t
 Unlike the Apple App Store, Google Play offers more leeway to highlight and market apps. Feature graphics are a wonderful way to differentiate from competitors, so change the feature graphic often. For instance, a common trend now is to update app listings with themed designs for Valentine's Day, Halloween, Christmas, and other special occasions. Doing so conveys that apps are well-maintained and increases user confidence, as well as offers the chance to showcase pertinent benefits in a different way.
 
 ## Size
-Google Play mandataes that feature graphics be 1024px x 500px.
+Google Play mandates feature graphics be 1024px x 500px.
 
 ## File Format
 The Google Play Store accepts either JPEG or 24-bit PNG (no alpha) images.
