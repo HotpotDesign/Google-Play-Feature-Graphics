@@ -24,17 +24,16 @@ Feature graphics appear before the screenshots in an app listing on Google Play.
 
 ## Best Practices
 * **Create Interest**
-  * Treat the feature graphic like a billboard ad on the highway. Assume users will only glance at the ad for a few seconds. The objective is to pique interest within this tiny window, to induce some browsing user to pause and explore the app listing further. The objective is not to explain the app in one graphic.
+  Treat the feature graphic like a billboard ad on the highway. Assume users will only glance at the ad for a few seconds. The objective is to pique interest within this tiny window, to induce some browsing user to pause and explore the app listing further. The objective is not to explain the app in one graphic.
   
 * **Complement Brand**
-  * Use colors, graphics, and language that complement your brand. For instance, if you include your app logo, pick colors for the feature graphic that complement your brand. If your app projects fun and youthfulness, use appropriate language in the copy. Ultiately, the design of the feature graphic should seamlessly blend in with your brand and app.
+  Use colors, graphics, and language that complement your brand. For instance, if you include your app logo, pick colors for the feature graphic that complement your brand. If your app projects fun and youthfulness, use appropriate language in the copy. Ultiately, the design of the feature graphic should seamlessly blend in with your brand and app.
  
 * **Grab with Visuals**
-  * Like billboard ads, the feature graphic should rely heavily on arresting graphics and colors to capture attention. Use text sparingly. Google web ads limit each line of copy to roughly 30-40 characters, and similar guidelines should apply to feature graphics. Grab user attention with visuals, not text. If possible, aim to restrict text to the app name and maybe a key phrase or two. When including text, remember to use font sizes large enough for text to remain legible across device sizes.
+  Like billboard ads, the feature graphic should rely heavily on arresting graphics and colors to capture attention. Use text sparingly. Google web ads limit each line of copy to roughly 30-40 characters, and similar guidelines should apply to feature graphics. Grab user attention with visuals, not text. If possible, aim to restrict text to the app name and maybe a key phrase or two. When including text, remember to use font sizes large enough for text to remain legible across device sizes.
 
 * **Localize**
-  * If you're targeting multiple countries, localize your feature graphic with the relevant languages so users can more easily understand your app.
+  If you're targeting multiple countries, localize your feature graphic with the relevant languages so users can more easily understand your app.
 
 * **Temporalize**
-
   Each new feature graphic offers a new way to attract users and highlight the benefits of your app. Change the feature graphic for special occasions like Christmas or Valentine's Day, or different promotions, events, or marketing campaigns linked to your company.
