@@ -37,4 +37,4 @@ Feature graphics appear before the screenshots in an app listing on Google Play.
 
 * **Temporalize**
 
-Each new feature graphic offers a new way to attract users and highlight the benefits of your app. Change the feature graphic for special occasions like Christmas or Valentine's Day, or different promotions, events, or marketing campaigns linked to your company.
+  Each new feature graphic offers a new way to attract users and highlight the benefits of your app. Change the feature graphic for special occasions like Christmas or Valentine's Day, or different promotions, events, or marketing campaigns linked to your company.
