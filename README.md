@@ -10,6 +10,9 @@ Feature graphics are not required for publishing apps on Google Play. However, t
 
 > The feature graphic is the first thing your potential users see when they open your app’s store listing. On the majority of Android smartphones and tablets, it occupies a third of the screen. As a result, it can have a significant impact on a store visitor’s decision to download your app and is an important part of your app marketing. When you include a video in your store listing, the feature graphic provides a link — indicated by an overlaid play icon — so the user can start watching it straight away.
 
+## Examples
+[Click here](https://myhotpot.io/templates/google_play_feature_graphic?s=github) to see examples of Google Play Feature Graphics from Hotpot Design.
+
 ## Benefits
 Unlike the Apple App Store, Google Play offers more leeway to highlight and market apps. Feature graphics are a wonderful way to differentiate from competitors, so change the feature graphic often. For instance, a common trend now is to update app listings with themed designs for Valentine's Day, Halloween, Christmas, and other special occasions. Doing so conveys that apps are well-maintained and increases user confidence, as well as offers the chance to showcase pertinent benefits in a different way.
 
