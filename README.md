@@ -36,4 +36,5 @@ Feature graphics appear before the screenshots in an app listing on Google Play.
   * If you're targeting multiple countries, localize your feature graphic with the relevant languages so users can more easily understand your app.
 
 * **Temporalize**
+
 Each new feature graphic offers a new way to attract users and highlight the benefits of your app. Change the feature graphic for special occasions like Christmas or Valentine's Day, or different promotions, events, or marketing campaigns linked to your company.
